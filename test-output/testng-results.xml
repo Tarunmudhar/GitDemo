@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-29T19:54:15 EDT" name="Loan Department" finished-at="2021-08-29T19:54:15 EDT" duration-ms="88">
+    <groups>
+    </groups>
+    <test started-at="2021-08-29T19:54:15 EDT" name="Personal Loan" finished-at="2021-08-29T19:54:15 EDT" duration-ms="88">
+      <class name="com.envision.basic.java.Day2">
+        <test-method signature="Demo2()[pri:0, instance:com.envision.basic.java.Day2@4d910fd6]" started-at="2021-08-29T19:54:15 EDT" name="Demo2" finished-at="2021-08-29T19:54:15 EDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method signature="Demo3()[pri:0, instance:com.envision.basic.java.Day2@4d910fd6]" started-at="2021-08-29T19:54:15 EDT" name="Demo3" finished-at="2021-08-29T19:54:15 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3 -->
+      </class> <!-- com.envision.basic.java.Day2 -->
+      <class name="com.envision.basic.java.Day3">
+        <test-method signature="ploan()[pri:0, instance:com.envision.basic.java.Day3@67080771]" started-at="2021-08-29T19:54:15 EDT" name="ploan" finished-at="2021-08-29T19:54:15 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- com.envision.basic.java.Day3 -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
